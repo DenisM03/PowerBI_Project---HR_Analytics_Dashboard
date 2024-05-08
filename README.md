@@ -44,7 +44,7 @@ Data was analysed by using all the metrices and graphs the insights were found t
 * Ayanna Atkins has maximum SL% ie.10.71%.
 
 ### Credit   
-Thank you, Codebasics, Hemanand Vadivel Sir  & Dhaval Patel Sir, for the resources,guidlines and for sharing your experience and knowledge.
+Thank you, Codebasics, Hemanand Vadivel Sir  & Dhaval Patel Sir, for the resources,guidlines and for sharing your experience and knowledge thruogh this project.
 
   
 
