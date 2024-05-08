@@ -31,8 +31,7 @@ A clear dashboard was build representing the all requirements that initially not
 4.__Finding Insights__  
 Data was analysed by using all the metrices and graphs the insights were found that will help the HR to take decisions.
 
-![Uploading Screenshot 2024-05-08 190752.png…]()
-
+![Screenshot 2024-05-08 190752](https://github.com/DenisM03/PowerBI_Project---HR_Analytics_Dashboard/assets/163861750/25ef25fc-87d5-42d8-8744-0360e2be3486)
 
 # 2. Key Insights   
 
