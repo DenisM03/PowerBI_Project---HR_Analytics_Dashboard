@@ -31,6 +31,9 @@ A clear dashboard was build representing the all requirements that initially not
 4.__Finding Insights__  
 Data was analysed by using all the metrices and graphs the insights were found that will help the HR to take decisions.
 
+![Uploading Screenshot 2024-05-08 190752.png…]()
+
+
 # 2. Key Insights   
 
 * Present % was highest in the month of April ie. 93.97%.  
