@@ -39,6 +39,12 @@ Data was analysed by using all the metrices and graphs the insights were found t
 * Present % was high on Monday.
 * WFH % was high on Friday.
 * SL % was high on Thursday.
+* Total 7 Employess  have 100% WFH%.
+* Total 21 Employees have 100% Present %.
+* Ayanna Atkins has maximum SL% ie.10.71%.
+
+### Credit   
+Thank you, Codebasics, Hemanand Vadivel Sir  & Dhaval Patel Sir, for the resources,guidlines and for sharing your experience and knowledge.
 
   
 
