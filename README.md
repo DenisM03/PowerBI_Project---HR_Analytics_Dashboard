@@ -1,8 +1,7 @@
 # HR Analytics Dashboard    
 
 __Dashboardlink__ 
-<iframe title="HR Analytics Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDA1M2I3ZmUtNTU4MC00YjA5LTlhOGItZTU2NjljOTY4MGIxIiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
+"https://app.powerbi.com/view?r=eyJrIjoiMDA1M2I3ZmUtNTU4MC00YjA5LTlhOGItZTU2NjljOTY4MGIxIiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9" 
 ## Objective   
 To deliver insights from HR dataset and  study Working preference of employees Home/Office,Work From Home %(WFH %) and Sick Leave %(SL%).   
 
