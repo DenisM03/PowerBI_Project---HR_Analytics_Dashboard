@@ -29,7 +29,7 @@ DAX measures were used to created calculated columns like Day of week, Month, Si
 A clear dashboard was build representing the all requirements that initially noted.Line graph and tables representing the trends in the Present % by Date,WFH% and SL%.
 
 4.__Finding Insights__  
-Data was analysed by using all the metrices and graphs the insights were found that will help the HR to take decisions.
+Data was analysed by using all the metrics and graphs the insights were found that will help the HR to take decisions.
 
 ![Screenshot 2024-05-08 190752](https://github.com/DenisM03/PowerBI_Project---HR_Analytics_Dashboard/assets/163861750/25ef25fc-87d5-42d8-8744-0360e2be3486)
 
@@ -41,12 +41,12 @@ Data was analysed by using all the metrices and graphs the insights were found t
 * Present % was high on Monday.
 * WFH % was high on Friday.
 * SL % was high on Thursday.
-* Total 7 Employess  have 100% WFH%.
+* Total 7 Employees  have 100% WFH%.
 * Total 21 Employees have 100% Present %.
 * Ayanna Atkins has maximum SL% ie.10.71%.
 
 ## Credit   
-Thank you, Codebasics, Hemanand Vadivel Sir  & Dhaval Patel Sir, for the resources,guidlines and for sharing your experience and knowledge thruogh this project.
+Thank you, Codebasics, Hemanand Vadivel Sir  & Dhaval Patel Sir, for the resources,guidelines and for sharing your experience and knowledge thruoghout this project.
 
   
 
